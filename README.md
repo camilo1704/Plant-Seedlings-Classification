@@ -5,5 +5,5 @@ The images were resized to 224x224. Then, employing trasfer learning, and then f
 
 <p align="center">
 <img src="https://github.com/camilo1704/Plant-Seedlings-Classification/blob/master/xcep1_.png" alt="alt text" width="640" >
-<\p>
+</p>
 Training 2 blocks and freezing the others generalize better than just training the last block. 
